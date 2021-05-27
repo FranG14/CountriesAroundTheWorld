@@ -27,7 +27,7 @@
 <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125320.png" />
 </p>
-<h4> Need to know more about a country? Just click Learn more!!!</h4>
+<h4> Need to know more about a country? Just click "Learn more"</h4>
   
  <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125200.png" />
