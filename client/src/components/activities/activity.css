@@ -1,0 +1,134 @@
+.backgroundColorActivity {
+  background-color: rgba(142, 142, 189, 0.342);
+  padding-top: 100px;
+  padding-bottom: 119px;
+}
+
+.activityHolder {
+  width: 700px;
+  height: 500px;
+  background-color: rgba(142, 142, 189, 0.616);
+  border-color: rgb(92, 92, 126);
+  border-radius: 10%;
+  margin-bottom: -17px;
+  margin-top: -170px;
+  margin-left: 420px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 50px 450px;
+}
+
+.activityTitle {
+  text-align: center;
+  padding-top: 5px;
+  font-family: monospace;
+  font-size: large;
+  text-decoration: dashed underline;
+  margin-bottom: 100px;
+}
+
+.activityName {
+  display: grid;
+  width: 177px;
+  height: 20px;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.activityDifficulty {
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 185px;
+}
+
+.activityLength {
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 177px;
+}
+
+.activitySeason {
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 185px;
+}
+
+.activityCountry {
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 185px;
+}
+
+.activityButton {
+  height: 20px;
+  margin-top: 20px;
+  margin-left: 80px;
+  width: 185px;
+}
+
+.activityDivContainer {
+  width: 300px;
+  padding-left: 30px;
+}
+
+.activityForm {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  height: 200px;
+  margin-top: 100px;
+  padding-left: 0px;
+}
+
+.activityPreview {
+  margin-top: 80px;
+  width: 300px;
+  margin-left: 20px;
+}
+
+.activityNamePreview {
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.activityLengthPreview {
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.activityDifficultyPreview {
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.activitySeasonPreview {
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.activityCountryPreview {
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.submitCountryButton {
+  margin-left: 62px;
+  margin-top: 10px;
+  background-color: rgb(113, 209, 16);
+  font-weight: 700;
+}
+
+.resetCountryButton {
+  background-color: crimson;
+  font-weight: 700;
+}
+
+.postActivity {
+  width: 200px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 70px;
+}

@@ -1,0 +1,188 @@
+.title {
+  font-family: monospace;
+  text-align: center;
+}
+
+.searchBar {
+  display: grid;
+  grid-template-columns: 300px;
+  /* margin-left: 610px; */
+}
+
+.searchInput {
+  height: 35px;
+  margin-left: 10px;
+  background-color: rgb(77, 116, 160);
+  border-radius: 10%;
+  border-color: rgb(77, 116, 160);
+}
+
+.activityImage {
+  float: right;
+  margin-right: 80px;
+  margin-top: 12px;
+}
+
+::placeholder {
+  color: black;
+  font-weight: bold;
+}
+
+.logo {
+  align-items: flex-start;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  background-color: rgb(77, 116, 160);
+  padding-bottom: 10px;
+}
+/* .grid-container {
+  width: 80%;
+  height: 100px;
+  margin: auto;
+  padding: 10px;
+} */
+
+.logo {
+  float: left;
+  margin-left: 50px;
+  margin-top: 12px;
+  height: 80px;
+  width: 150px;
+}
+
+.title {
+  height: 50px;
+  padding-top: 10px;
+  font-size: 17px;
+}
+
+.form-container {
+  width: 300px;
+  height: 0px;
+  padding-left: 150px;
+  padding-top: 25px;
+}
+
+/* .searchBar {
+  height: 45px;
+  width: 250px;
+  border-radius: 10%;
+  background-color: rgb(201, 222, 245);
+} */
+
+.titleSearch {
+  margin-top: 9px;
+  height: 35px;
+  width: 250px;
+  border-radius: 10%;
+  background-color: rgb(201, 222, 245);
+}
+
+.searchButton {
+  padding-top: 10px;
+  padding-bottom: 12px;
+  border-radius: 10%;
+  text-align: center;
+  background-color: rgb(201, 222, 245);
+}
+
+.countryCard {
+  width: 200px;
+  height: 300px;
+  background-color: rgba(142, 142, 189, 0.616);
+  border-color: rgb(92, 92, 126);
+  border-radius: 10%;
+  padding: 30px;
+  margin-bottom: -17px;
+}
+
+.countryCardGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 40px;
+  padding-right: 25px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.cardName {
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.cardRegion {
+  padding-top: 5px;
+  font-size: large;
+  font-weight: 600;
+}
+
+.loadButton {
+  margin-top: 20px;
+  margin-left: 678px;
+  height: 50px;
+  width: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1f;
+}
+
+.backgroundColor {
+  background-color: rgba(142, 142, 189, 0.342);
+}
+
+.lds-dual-ring {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: flex;
+  width: 64px;
+  height: 64px;
+  margin-left: 730px;
+  margin-top: 00px;
+  border-radius: 50%;
+  border: 6px solid rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0) transparent rgb(0, 0, 0) transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loadingText {
+  display: flex;
+  width: 64px;
+  height: 64px;
+  margin-left: 720px;
+  margin-top: 200px;
+}
+
+.headers {
+  display: flex;
+}
+
+.totalCountries {
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 8%;
+  margin-top: 20px;
+  background-color: rgb(77, 116, 160);
+  align-items: center;
+  font-weight: bold;
+  height: auto;
+  width: 345px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 10px;
+  grid-gap: 5px;
+}

@@ -1,0 +1,247 @@
+.titleDetail {
+  font-family: monospace;
+  text-align: center;
+}
+
+.searchBar {
+  display: flex;
+  align-items: flex-end;
+}
+
+.logo {
+  align-items: flex-start;
+}
+
+.grid-container-detail {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-gap: 20px;
+  background-color: rgb(77, 116, 160);
+  padding-bottom: 10px;
+}
+/* .grid-container {
+  width: 80%;
+  height: 100px;
+  margin: auto;
+  padding: 10px;
+} */
+
+.logo {
+  float: left;
+  margin-left: 50px;
+  margin-top: 12px;
+  height: 80px;
+  width: 150px;
+}
+
+.titleDetail {
+  height: 50px;
+  padding-top: 10px;
+  font-size: 17px;
+}
+
+.form-container {
+  width: 300px;
+  height: 0px;
+  padding-left: 150px;
+  padding-top: 25px;
+}
+
+/* .searchBar {
+  height: 45px;
+  width: 250px;
+  border-radius: 10%;
+  background-color: rgb(201, 222, 245);
+} */
+
+.titleSearch {
+  margin-top: 9px;
+  height: 35px;
+  width: 250px;
+  border-radius: 10%;
+  background-color: rgb(201, 222, 245);
+}
+
+.searchButton {
+  padding-top: 10px;
+  padding-bottom: 12px;
+  border-radius: 10%;
+  text-align: center;
+  background-color: rgb(201, 222, 245);
+}
+
+.countryCardDetail {
+  width: 626px;
+  height: 500px;
+  background-color: rgba(142, 142, 189, 0.616);
+  border-color: rgb(92, 92, 126);
+  border-top-left-radius: 10%;
+  border-bottom-left-radius: 10%;
+  padding: 30px;
+  margin-right: px;
+  margin-bottom: -17px;
+  margin-left: 50px;
+}
+
+.countryCardGridDetail {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.cardNameDetail {
+  margin-right: 30px;
+  font-size: xx-large;
+  margin-left: 30px;
+  background-color: rgba(142, 142, 189, 0.616);
+
+  text-align: center;
+}
+
+.cardRegionDetail {
+  font-size: x-large;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: rgba(142, 142, 189, 0.616);
+}
+
+.cardCapitalDetail {
+  font-size: x-large;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: rgba(142, 142, 189, 0.616);
+}
+
+.cardPopulationDetail {
+  font-size: x-large;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: rgba(142, 142, 189, 0.616);
+}
+
+.cardAreaDetail {
+  font-size: x-large;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  background-color: rgba(142, 142, 189, 0.616);
+  padding-bottom: 30px;
+  border-bottom-left-radius: 20%;
+  border-bottom-right-radius: 20%;
+}
+
+.cardFlagDetail {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  border-top-right-radius: 20%;
+  border-top-left-radius: 20%;
+  background-color: rgba(142, 142, 189, 0.616);
+}
+
+.cardFlagImgDetail {
+  border-radius: 3%;
+  margin-top: 20px;
+}
+
+.loadButton {
+  margin-top: 20px;
+  margin-left: 678px;
+  height: 50px;
+  width: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1f;
+}
+
+.backgroundColorDetail {
+  background-color: rgba(142, 142, 189, 0.342);
+  height: 685px;
+  padding-top: 10px;
+}
+
+.lds-dual-ring {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: flex;
+  width: 64px;
+  height: 64px;
+  margin-left: 730px;
+  margin-top: 00px;
+  border-radius: 50%;
+  border: 6px solid rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0) transparent rgb(0, 0, 0) transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loadingText {
+  display: flex;
+  width: 64px;
+  height: 64px;
+  margin-left: 720px;
+  margin-top: 200px;
+}
+
+.headers {
+  display: flex;
+}
+
+.activitiesGrid {
+  width: 650px;
+  height: 500px;
+  background-color: rgba(142, 142, 189, 0.616);
+  border-top-right-radius: 10%;
+  border-bottom-right-radius: 10%;
+  padding: 30px;
+  padding-left: 15px;
+  margin-bottom: -17px;
+  margin-top: -45px;
+  display: grid;
+  grid-template-columns: 190px 100px 180px 130px;
+  grid-gap: 0px;
+  padding-right: 25px;
+  margin-left: -40px;
+  text-align: center;
+}
+
+.activityHeader {
+  font-family: monospace;
+  font-size: 20px;
+  padding-left: 40px;
+  margin-top: 30px;
+}
+
+.activitiesGridContainer {
+  display: grid;
+  align-self: flex-start;
+  background-color: rgba(142, 142, 189, 0.616);
+  width: 625px;
+  height: 470px;
+  margin-left: 0px;
+  margin-top: 45px;
+  border-top-right-radius: 15%;
+  border-top-left-radius: 15%;
+  margin-left: 0px;
+  border-radius: 5%;
+}
+
+.activityData {
+  padding: 5px;
+}

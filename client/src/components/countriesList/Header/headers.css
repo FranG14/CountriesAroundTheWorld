@@ -1,0 +1,25 @@
+.sorting {
+  display: grid;
+  grid-template-columns: 1fr 10px;
+  grid-gap: 5px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 10%;
+  margin-top: 20px;
+  background-color: rgb(77, 116, 160);
+  align-items: center;
+  font-weight: bold;
+  height: auto;
+  width: 159px;
+  text-align: center;
+}
+
+.arrow {
+  font-size: x-large;
+  margin-top: -5px;
+}
+
+.sortItem {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

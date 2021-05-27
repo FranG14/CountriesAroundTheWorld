@@ -1,0 +1,26 @@
+.sortingFall {
+  display: grid;
+  grid-template-columns: 1fr 10px;
+  grid-gap: 5px;
+  padding: 10px;
+  margin-left: 10px;
+  border-radius: 10%;
+  margin-top: 20px;
+  background-color: rgb(77, 116, 160);
+  align-items: center;
+  font-weight: bold;
+  height: 42px;
+  width: 159px;
+  text-align: center;
+}
+
+.arrowFall {
+  font-size: x-large;
+  margin-top: -5px;
+  margin-left: -5px;
+}
+
+.sortItemFall {
+  display: grid;
+  grid-template-columns: 1fr;
+}
