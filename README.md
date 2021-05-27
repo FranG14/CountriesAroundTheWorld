@@ -15,11 +15,11 @@
 ## What you can do.
 
 <p align="left">
-  <img height="200" src="./images/Capture.png" />
+  <img height="200" src="./images/Capture.PNG" />
 </p>
 
 <p align="left">
-  <img height="200" src="./images/Capture1.png" />
+  <img height="200" src="./images/Capture1.PNG" />
 </p>
 
 <p align="left">
