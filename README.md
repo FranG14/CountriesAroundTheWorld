@@ -17,17 +17,17 @@
 <p align="left">
   <img height="200" src="./images/Capture.PNG" />
 </p>
-<h4> Want to see the top 10 countries with the most population? Just sort them. </h4>
+<h4> Want to see the top 10 countries with the most population? Just sort 'em!!! </h4>
  
 <p align="left">
   <img height="200" src="./images/Capture1.PNG" />
 </p>
-<h4> You can add your own activities and include them in all the countries you want. </h4>
+<h4> You can add your own activities and include them in all the countries you want!!! </h4>
  
 <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125320.png" />
 </p>
-<h4> Need to know more about a country? Just click Learn more.</h4>
+<h4> Need to know more about a country? Just click Learn more!!!</h4>
   
  <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125200.png" />
