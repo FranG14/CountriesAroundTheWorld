@@ -27,10 +27,10 @@
 <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125320.png" />
 </p>
-### Need to know more about a country? Just click Learn more.
+<h2> Need to know more about a country? Just click Learn more.</h2>
   
  <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125200.png" />
 </p>
-
+##
 ## Deploy Coming Soon!!!.
