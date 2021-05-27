@@ -26,7 +26,7 @@
  
 <p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125320.png" />
-</p
+</p>
  Need to know more about a country? Just click Learn more.
   
  <p align="left">
