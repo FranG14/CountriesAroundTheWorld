@@ -2,7 +2,7 @@
 # Countries Around The World
 
 <p align="left">
-  <img height="200" src="./countries.png" />
+  <img height="200" src="./images/.png" />
 </p>
 
 ## Technologies used to build this App.
@@ -15,7 +15,7 @@
 ## What you can do.
 <h4> Search for a country, sort them from A-Z, Z-A, by Population or Filter by Region or Activity Season. </h4>
 <p align="left">
-  <img height="200" src="./images/Capture.PNG" />
+  <img height="200" src="./images/8b63dada06707627f15789fb14890aa0.png" />
 </p>
 <h4> Want to see the top 10 countries with the most population? Just sort 'em!!! </h4>
  
