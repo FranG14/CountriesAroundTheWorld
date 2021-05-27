@@ -23,9 +23,9 @@
 </p>
 
 <p align="left">
-  <img height="200" src="./countries.png" />
-</p>
-
-<p align="left">
   <img height="200" src="./images/Screenshot 2021-05-27 125320.png" />
 </p
+
+ <p align="left">
+  <img height="200" src="./images/Screenshot 2021-05-27 125200.png" />
+</p>
